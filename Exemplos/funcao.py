@@ -1,6 +1,8 @@
 from datetime import datetime
 
 def menu_calculadora():
+
+
     print("Menu calculadora")
     print("1 - Adição")
     print("2 - Subtração")
